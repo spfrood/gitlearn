@@ -1,3 +1,16 @@
 You are standing in room 1. It's a square room with a door in each 
 wall.  There is a painting on the southern wall. The light is coming 
 from overhead and shines gently from a chandelier.
+
+Will need to add things to this so that the file will be able to pull
+exits out, then reference the appropriate filename based on which 
+exit was chosen. Also need to be able to list the "items" that are 
+in the room. 
+
+It would also be useful to add more detail commands such as "examine"
+or "look".  Look would redisplay the room-text from the file and 
+"examine" would be able to have an argument passed (argument would
+have to be one of the nouns from the room text). If the argument isn't
+valid then the examine return would be "You don't see 'xxx' here."
+
+
