@@ -13,4 +13,7 @@ or "look".  Look would redisplay the room-text from the file and
 have to be one of the nouns from the room text). If the argument isn't
 valid then the examine return would be "You don't see 'xxx' here."
 
+So now I'm adding this line from inside of a branch just to test the
+commit and stuff when changes are made.
+
 
